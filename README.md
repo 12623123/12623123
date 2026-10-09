@@ -106,7 +106,7 @@ A desktop application for managing a small library or bookstore using C# and SQL
   <a href="https://github.com/12623123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/radoslav-valchev-b008863a2/">
+  <a href="https://www.linkedin.com/in/radoslav-d-valchev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:radival04@gmail.com">
