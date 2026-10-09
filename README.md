@@ -93,10 +93,6 @@ A web application for managing menus and their associated recipes.
 
 ## 📫 Connect With Me
 
-
-
-## 📫 Connect With Me
-
 <p align="center">
   <a href="https://github.com/12623123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
