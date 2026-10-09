@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Student | Linux Enthusiast | Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity;Learning+Linux+%26+Networking;Building+Hands-on+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity;Learning+Linux+%26+Networking;Building+Practical+Projects" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -75,6 +75,15 @@ A web application for managing menus and their associated recipes.
 * React and TypeScript.
 * Express backend.
 * MySQL database.
+
+### 📚 Library Management Application
+
+A desktop application for managing a small library or bookstore using C# and SQL Server.
+
+* Windows Forms interface.
+* Supplier, inventory, and sales tracking.
+* Local database storage with SQL Server LocalDB.
+* Daily sales report and turnover overview.
 
 ---
 
