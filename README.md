@@ -87,9 +87,12 @@ A desktop application for managing a small library or bookstore using C# and SQL
 
 ## 📄 My CV
 
-[![View My CV](https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Resume_Radoslav_Valchev.pdf)  
+<p align="center">
+  <a href="docs/Resume_Radoslav_Valchev.pdf">
+    <img src="https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV" />
+  </a>
+</p>
 
----
 
 ## 📊 GitHub Stats
 
