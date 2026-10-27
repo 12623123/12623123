@@ -85,6 +85,10 @@ A desktop application for managing a small library or bookstore using C# and SQL
 * Local database storage with SQL Server LocalDB.
 * Daily sales report and turnover overview.
 
+## 📄 My CV
+
+[![View My CV](https://img.shields.io/badge/View_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Resume_Radoslav_Valchev.pdf)  
+
 ---
 
 ## 📊 GitHub Stats
